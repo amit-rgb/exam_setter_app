@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assessment Studio</string>
+    <string name="error_connect_title">Unable to connect to Assessment Studio.</string>
+    <string name="error_connect_description">Please check your network connection and try again.</string>
+    <string name="action_retry">Retry</string>
+    <string name="download_started">Downloading file…</string>
+    <string name="file_chooser_title">Select file</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Assessment Studio",
+  "description": "Android WebView container for the Assessment Studio web application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
